@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>WM sheep的个人博客页</title><link>https://WMsheep.github.io/WM-sheep.github.io</link><description>一个喜欢分享好玩·实用技巧的Github博客主！😀</description><copyright>WM sheep的个人博客页</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/174663438?s=400&amp;u=ccbb1b43084928bceaa4cb926e6a197d8b178de6&amp;v=4</url><title>avatar</title><link>https://WMsheep.github.io/WM-sheep.github.io</link></image><lastBuildDate>Wed, 16 Oct 2024 14:48:06 +0000</lastBuildDate><managingEditor>WM sheep的个人博客页</managingEditor><ttl>60</ttl><webMaster>WM sheep的个人博客页</webMaster><item><title>本地部署模型（ollama为例）</title><link>https://WMsheep.github.io/WM-sheep.github.io/post/ben-di-bu-shu-mo-xing-%EF%BC%88ollama-wei-li-%EF%BC%89.html</link><description># 本地部署模型（ollama为例）&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>WM sheep的个人博客页</title><link>https://WMsheep.github.io/WM-sheep.github.io</link><description>一个喜欢分享好玩·实用技巧的Github博客主！😀</description><copyright>WM sheep的个人博客页</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/174663438?s=400&amp;u=ccbb1b43084928bceaa4cb926e6a197d8b178de6&amp;v=4</url><title>avatar</title><link>https://WMsheep.github.io/WM-sheep.github.io</link></image><lastBuildDate>Sat, 26 Oct 2024 05:08:25 +0000</lastBuildDate><managingEditor>WM sheep的个人博客页</managingEditor><ttl>60</ttl><webMaster>WM sheep的个人博客页</webMaster><item><title>本地并部署模型时遇到的常见问题</title><link>https://WMsheep.github.io/WM-sheep.github.io/post/ben-di-bing-bu-shu-mo-xing-shi-yu-dao-de-chang-jian-wen-ti.html</link><description># 本地并部署模型时遇到的常见问题&#13;
+&#13;
+[建议搭配博客查看&#13;
+本地部署模型（ollama为例）](https://wmsheep.github.io/WM-sheep.github.io/post/ben-di-bu-shu-mo-xing-%EF%BC%88ollama-wei-li-%EF%BC%89.html)&#13;
+---&#13;
+## 运行问题：&#13;
+&gt; - 当部署完成以后，想要**再次运行**时，只需要：&#13;
+&gt;   1. **打开 `PowerShell` （无需管理员身份）**&#13;
+&gt;   2. 输入**对应模型的安装命令**即可&#13;
+&#13;
+## 模型不可用问题：&#13;
+&gt; - 输入下载命令发现***模型不可用问题***——&#13;
+&gt;   1. 检查 **Ollama Setup.exe** 是否正常【**打开`PowerShell`（无需管理员身份**】[输入**ollama**查看输出。</description><guid isPermaLink="true">https://WMsheep.github.io/WM-sheep.github.io/post/ben-di-bing-bu-shu-mo-xing-shi-yu-dao-de-chang-jian-wen-ti.html</guid><pubDate>Sat, 26 Oct 2024 05:08:01 +0000</pubDate></item><item><title>本地部署模型（ollama为例）</title><link>https://WMsheep.github.io/WM-sheep.github.io/post/ben-di-bu-shu-mo-xing-%EF%BC%88ollama-wei-li-%EF%BC%89.html</link><description># 本地部署模型（ollama为例）&#13;
 &gt;**前言** ：这个方法是部署模型最简单的方法，但不一定是最好的 **（取决于你的电脑系统 or 配置）** 大家酌情考虑&#13;
 ### 为什么需要本地部署？&#13;
 &gt;相信你之前也遇到过类似的情况：&#13;
